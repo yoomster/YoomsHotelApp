@@ -2,6 +2,7 @@
 {
     public class BookingsModel
     {
+        public int Id { get; set; }
         public RoomModel Room { get; set; }
         public GuestModel Guest { get; set; }
         public DateTime StartDate { get; set; }
