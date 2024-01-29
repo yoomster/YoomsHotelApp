@@ -9,6 +9,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "YoomsHotelDB", "YoomsHotelD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "..\RelationalDBSolution\DataAccessLibrary\DataAccessLibrary.csproj", "{73DDC17B-A2F1-42DD-ACA1-B6CAB74F9216}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoomsHotelLibrary", "YoomsHotelLibrary\YoomsHotelLibrary.csproj", "{CA9F6C87-7108-4E09-BE95-04E3E15C84A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{73DDC17B-A2F1-42DD-ACA1-B6CAB74F9216}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73DDC17B-A2F1-42DD-ACA1-B6CAB74F9216}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73DDC17B-A2F1-42DD-ACA1-B6CAB74F9216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9F6C87-7108-4E09-BE95-04E3E15C84A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9F6C87-7108-4E09-BE95-04E3E15C84A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9F6C87-7108-4E09-BE95-04E3E15C84A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9F6C87-7108-4E09-BE95-04E3E15C84A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
